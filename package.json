@@ -1,0 +1,42 @@
+{
+  "name": "uru-frameworks-clocks-api",
+  "version": "1.0.0",
+  "description": "Clocks API project from Frameworks college course",
+  "keywords": [
+    "js",
+    "javascript",
+    "express",
+    "expressjs",
+    "firebase",
+    "joi"
+  ],
+  "homepage": "https://github.com/ralvarezdev/uru-frameworks-clocks-api#readme",
+  "bugs": {
+    "url": "https://github.com/ralvarezdev/uru-frameworks-clocks-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralvarezdev/uru-frameworks-clocks-api.git"
+  },
+  "license": "ISC",
+  "author": "Ramón Álvarez",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js --dev",
+    "debug": "node index.js --debug",
+    "prod": "node index.js --prod"
+  },
+  "dependencies": {
+    "@ralvarezdev/js-express": "^0.1.5",
+    "@ralvarezdev/js-joi-parser": "^0.1.10",
+    "@ralvarezdev/js-mode": "^0.1.9",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "firebase": "^11.5.0",
+    "helmet": "^8.1.0",
+    "joi": "^17.13.3"
+  }
+}
