@@ -30,4 +30,4 @@ No tests are defined.
 
 ## License
 
-GNU General Public License v3.0 (see `LICENSE`). `package.json` declares `ISC`, which disagrees with it.
+GNU General Public License v3.0 (see `LICENSE`). `package.json` declares `GPL-3.0-only`, matching it.

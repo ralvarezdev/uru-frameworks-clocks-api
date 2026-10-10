@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/ralvarezdev/uru-frameworks-clocks-api.git"
   },
-  "license": "ISC",
+  "license": "GPL-3.0-only",
   "author": "Ramón Álvarez",
   "type": "module",
   "main": "index.js",
